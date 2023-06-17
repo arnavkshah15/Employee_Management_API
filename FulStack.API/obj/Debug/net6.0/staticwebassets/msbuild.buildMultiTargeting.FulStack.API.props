@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FulStack.API.props" />
+</Project>

@@ -1,0 +1,15 @@
+C:\Users\arnav\Desktop\Employee_Management\FullStack API\FullStack.API\FullStack.Application\bin\Debug\net6.0\FullStack.Application.deps.json
+C:\Users\arnav\Desktop\Employee_Management\FullStack API\FullStack.API\FullStack.Application\bin\Debug\net6.0\FullStack.Application.dll
+C:\Users\arnav\Desktop\Employee_Management\FullStack API\FullStack.API\FullStack.Application\bin\Debug\net6.0\FullStack.Application.pdb
+C:\Users\arnav\Desktop\Employee_Management\FullStack API\FullStack.API\FullStack.Application\bin\Debug\net6.0\FullStack.Domain.dll
+C:\Users\arnav\Desktop\Employee_Management\FullStack API\FullStack.API\FullStack.Application\bin\Debug\net6.0\FullStack.Domain.pdb
+C:\Users\arnav\Desktop\Employee_Management\FullStack API\FullStack.API\FullStack.Application\obj\Debug\net6.0\FullStack.Application.csproj.AssemblyReference.cache
+C:\Users\arnav\Desktop\Employee_Management\FullStack API\FullStack.API\FullStack.Application\obj\Debug\net6.0\FullStack.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arnav\Desktop\Employee_Management\FullStack API\FullStack.API\FullStack.Application\obj\Debug\net6.0\FullStack.Application.AssemblyInfoInputs.cache
+C:\Users\arnav\Desktop\Employee_Management\FullStack API\FullStack.API\FullStack.Application\obj\Debug\net6.0\FullStack.Application.AssemblyInfo.cs
+C:\Users\arnav\Desktop\Employee_Management\FullStack API\FullStack.API\FullStack.Application\obj\Debug\net6.0\FullStack.Application.csproj.CoreCompileInputs.cache
+C:\Users\arnav\Desktop\Employee_Management\FullStack API\FullStack.API\FullStack.Application\obj\Debug\net6.0\FullStack.Application.csproj.CopyComplete
+C:\Users\arnav\Desktop\Employee_Management\FullStack API\FullStack.API\FullStack.Application\obj\Debug\net6.0\FullStack.Application.dll
+C:\Users\arnav\Desktop\Employee_Management\FullStack API\FullStack.API\FullStack.Application\obj\Debug\net6.0\refint\FullStack.Application.dll
+C:\Users\arnav\Desktop\Employee_Management\FullStack API\FullStack.API\FullStack.Application\obj\Debug\net6.0\FullStack.Application.pdb
+C:\Users\arnav\Desktop\Employee_Management\FullStack API\FullStack.API\FullStack.Application\obj\Debug\net6.0\ref\FullStack.Application.dll

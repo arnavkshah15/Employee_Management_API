@@ -1,0 +1,12 @@
+C:\Users\arnav\Desktop\Employee_Management\FullStack API\FullStack.API\FUllStack.Domain\bin\Debug\net6.0\FullStack.Domain.deps.json
+C:\Users\arnav\Desktop\Employee_Management\FullStack API\FullStack.API\FUllStack.Domain\bin\Debug\net6.0\FullStack.Domain.dll
+C:\Users\arnav\Desktop\Employee_Management\FullStack API\FullStack.API\FUllStack.Domain\bin\Debug\net6.0\FullStack.Domain.pdb
+C:\Users\arnav\Desktop\Employee_Management\FullStack API\FullStack.API\FUllStack.Domain\obj\Debug\net6.0\FullStack.Domain.csproj.AssemblyReference.cache
+C:\Users\arnav\Desktop\Employee_Management\FullStack API\FullStack.API\FUllStack.Domain\obj\Debug\net6.0\FullStack.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arnav\Desktop\Employee_Management\FullStack API\FullStack.API\FUllStack.Domain\obj\Debug\net6.0\FullStack.Domain.AssemblyInfoInputs.cache
+C:\Users\arnav\Desktop\Employee_Management\FullStack API\FullStack.API\FUllStack.Domain\obj\Debug\net6.0\FullStack.Domain.AssemblyInfo.cs
+C:\Users\arnav\Desktop\Employee_Management\FullStack API\FullStack.API\FUllStack.Domain\obj\Debug\net6.0\FullStack.Domain.csproj.CoreCompileInputs.cache
+C:\Users\arnav\Desktop\Employee_Management\FullStack API\FullStack.API\FUllStack.Domain\obj\Debug\net6.0\FullStack.Domain.dll
+C:\Users\arnav\Desktop\Employee_Management\FullStack API\FullStack.API\FUllStack.Domain\obj\Debug\net6.0\refint\FullStack.Domain.dll
+C:\Users\arnav\Desktop\Employee_Management\FullStack API\FullStack.API\FUllStack.Domain\obj\Debug\net6.0\FullStack.Domain.pdb
+C:\Users\arnav\Desktop\Employee_Management\FullStack API\FullStack.API\FUllStack.Domain\obj\Debug\net6.0\ref\FullStack.Domain.dll

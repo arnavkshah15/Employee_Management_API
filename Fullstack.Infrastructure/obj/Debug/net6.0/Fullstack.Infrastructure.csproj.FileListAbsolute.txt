@@ -1,0 +1,17 @@
+C:\Users\arnav\Desktop\Employee_Management\FullStack API\FullStack.API\Fullstack.Infrastructure\bin\Debug\net6.0\Fullstack.Infrastructure.deps.json
+C:\Users\arnav\Desktop\Employee_Management\FullStack API\FullStack.API\Fullstack.Infrastructure\bin\Debug\net6.0\Fullstack.Infrastructure.dll
+C:\Users\arnav\Desktop\Employee_Management\FullStack API\FullStack.API\Fullstack.Infrastructure\bin\Debug\net6.0\Fullstack.Infrastructure.pdb
+C:\Users\arnav\Desktop\Employee_Management\FullStack API\FullStack.API\Fullstack.Infrastructure\bin\Debug\net6.0\FullStack.Application.dll
+C:\Users\arnav\Desktop\Employee_Management\FullStack API\FullStack.API\Fullstack.Infrastructure\bin\Debug\net6.0\FullStack.Domain.dll
+C:\Users\arnav\Desktop\Employee_Management\FullStack API\FullStack.API\Fullstack.Infrastructure\bin\Debug\net6.0\FullStack.Application.pdb
+C:\Users\arnav\Desktop\Employee_Management\FullStack API\FullStack.API\Fullstack.Infrastructure\bin\Debug\net6.0\FullStack.Domain.pdb
+C:\Users\arnav\Desktop\Employee_Management\FullStack API\FullStack.API\Fullstack.Infrastructure\obj\Debug\net6.0\Fullstack.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\arnav\Desktop\Employee_Management\FullStack API\FullStack.API\Fullstack.Infrastructure\obj\Debug\net6.0\Fullstack.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arnav\Desktop\Employee_Management\FullStack API\FullStack.API\Fullstack.Infrastructure\obj\Debug\net6.0\Fullstack.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\arnav\Desktop\Employee_Management\FullStack API\FullStack.API\Fullstack.Infrastructure\obj\Debug\net6.0\Fullstack.Infrastructure.AssemblyInfo.cs
+C:\Users\arnav\Desktop\Employee_Management\FullStack API\FullStack.API\Fullstack.Infrastructure\obj\Debug\net6.0\Fullstack.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\arnav\Desktop\Employee_Management\FullStack API\FullStack.API\Fullstack.Infrastructure\obj\Debug\net6.0\Fullstack.Infrastructure.csproj.CopyComplete
+C:\Users\arnav\Desktop\Employee_Management\FullStack API\FullStack.API\Fullstack.Infrastructure\obj\Debug\net6.0\Fullstack.Infrastructure.dll
+C:\Users\arnav\Desktop\Employee_Management\FullStack API\FullStack.API\Fullstack.Infrastructure\obj\Debug\net6.0\refint\Fullstack.Infrastructure.dll
+C:\Users\arnav\Desktop\Employee_Management\FullStack API\FullStack.API\Fullstack.Infrastructure\obj\Debug\net6.0\Fullstack.Infrastructure.pdb
+C:\Users\arnav\Desktop\Employee_Management\FullStack API\FullStack.API\Fullstack.Infrastructure\obj\Debug\net6.0\ref\Fullstack.Infrastructure.dll
