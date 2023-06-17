@@ -15,3 +15,5 @@ C:\Users\arnav\Desktop\Employee_Management\FullStack API\FullStack.API\Fullstack
 C:\Users\arnav\Desktop\Employee_Management\FullStack API\FullStack.API\Fullstack.Infrastructure\obj\Debug\net6.0\refint\Fullstack.Infrastructure.dll
 C:\Users\arnav\Desktop\Employee_Management\FullStack API\FullStack.API\Fullstack.Infrastructure\obj\Debug\net6.0\Fullstack.Infrastructure.pdb
 C:\Users\arnav\Desktop\Employee_Management\FullStack API\FullStack.API\Fullstack.Infrastructure\obj\Debug\net6.0\ref\Fullstack.Infrastructure.dll
+C:\Users\arnav\Desktop\Employee_Management\FullStack API\FullStack.API\Fullstack.Infrastructure\bin\Debug\net6.0\Fullstack.Infrastructure.runtimeconfig.json
+C:\Users\arnav\Desktop\Employee_Management\FullStack API\FullStack.API\Fullstack.Infrastructure\obj\Debug\net6.0\Fullstack.Infrastructure.genruntimeconfig.cache

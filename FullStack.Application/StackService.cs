@@ -16,7 +16,11 @@ namespace FullStack.Application
             _fStackRepository = fStackRepository;
         }
 
-        
+        public Employee CreateEmployee(Employee employee)
+        {
+            _fStackRepository.CreateEmployee(employee);
+            return employee;
+        }
 
         public List<Employee> GetAllEmployees()
         {

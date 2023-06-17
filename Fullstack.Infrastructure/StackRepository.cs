@@ -10,14 +10,25 @@ namespace Fullstack.Infrastructure
 {
     public class StackRepository : FStackRepository
     {
-        public static List<Employee> employees = new List<Employee>()
+       
+        private readonly FullStackDbContext _fullStackDbContext;
+
+        public StackRepository(FullStackDbContext fullStackDbContext)
         {
-            new Employee{Id=Guid.NewGuid(),Name="Aarav",Email="aarav@gmail.com",Phone=9998887766,Salary=123456,Department="Chemistry"},
-            new Employee{Id=Guid.NewGuid(),Name="Arnav",Email="arnav@gmail.com",Phone=9998887765,Salary=123459,Department="Computer"}
-        };
+            _fullStackDbContext = fullStackDbContext;
+        }
+
+        public Employee CreateEmployee(Employee employee)
+        {
+            employee.Id=Guid.NewGuid();
+            _fullStackDbContext.Employees.Add(employee);
+            _fullStackDbContext.SaveChanges();
+            return employee;
+        }
+
         public List<Employee> GetAllEmployees()
         {
-            return employees;
+            return _fullStackDbContext.Employees.ToList();
         }
     }
 }

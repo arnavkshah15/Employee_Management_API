@@ -24,6 +24,12 @@ namespace FulStack.API.Controllers
             return Ok(employeeFromService);
         }
 
+        [HttpPost]
+        public ActionResult<Employee> PostEmployee(Employee employee) { 
+        var Employee=_service.CreateEmployee(employee);
+            return Ok(employee);
+        }
+
         
     }
 }

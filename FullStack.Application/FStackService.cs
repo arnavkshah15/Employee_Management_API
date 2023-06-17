@@ -10,5 +10,6 @@ namespace FullStack.Application
     public interface FStackService
     {
         List<Employee> GetAllEmployees();
+        Employee CreateEmployee(Employee employee);
     }
 }
