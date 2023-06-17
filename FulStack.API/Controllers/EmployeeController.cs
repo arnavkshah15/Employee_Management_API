@@ -20,7 +20,7 @@ namespace FulStack.API.Controllers
         [HttpGet]
         public ActionResult<List<Employee>> Get()
         {
-            var employeeFromService=_service.GetAllEmployees();
+            var employeeFromService= _service.GetAllEmployees();
             return Ok(employeeFromService);
         }
 
