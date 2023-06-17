@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FullStack.Domain", "FUllSta
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FullStack.Application", "FullStack.Application\FullStack.Application.csproj", "{B691FE64-75E4-4834-8AA0-10A846CBC2B6}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FulStack.API", "FulStack.API\FulStack.API.csproj", "{4E5FC9E2-9689-49F8-938A-01DBE12D1BF1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FullStack.API", "FulStack.API\FullStack.API.csproj", "{4E5FC9E2-9689-49F8-938A-01DBE12D1BF1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

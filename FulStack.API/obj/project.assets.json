@@ -3782,9 +3782,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\arnav\\Desktop\\Employee_Management\\FullStack API\\FullStack.API\\FulStack.API\\FulStack.API.csproj",
-      "projectName": "FulStack.API",
-      "projectPath": "C:\\Users\\arnav\\Desktop\\Employee_Management\\FullStack API\\FullStack.API\\FulStack.API\\FulStack.API.csproj",
+      "projectUniqueName": "C:\\Users\\arnav\\Desktop\\Employee_Management\\FullStack API\\FullStack.API\\FulStack.API\\FullStack.API.csproj",
+      "projectName": "FullStack.API",
+      "projectPath": "C:\\Users\\arnav\\Desktop\\Employee_Management\\FullStack API\\FullStack.API\\FulStack.API\\FullStack.API.csproj",
       "packagesPath": "C:\\Users\\arnav\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\arnav\\Desktop\\Employee_Management\\FullStack API\\FullStack.API\\FulStack.API\\obj\\",
       "projectStyle": "PackageReference",
