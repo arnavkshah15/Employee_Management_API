@@ -11,5 +11,8 @@ namespace FullStack.Application
     {
         List<Employee> GetAllEmployees();
         Employee CreateEmployee(Employee employee);
+
+        Employee GetEmployee(Guid id);
+        Employee UpdateEmployee(Guid id, Employee updateEmployeeRequest);
     }
 }

@@ -27,5 +27,16 @@ namespace FullStack.Application
             var employees=_fStackRepository.GetAllEmployees();
             return employees;
         }
+
+        public Employee GetEmployee(Guid id)
+        {
+            var employee=_fStackRepository.GetEmployee(id);
+            return employee;
+        }
+        public Employee UpdateEmployee(Guid id, Employee updateEmployeeRequest)
+        {
+            var employee= _fStackRepository.UpdateEmployee(id, updateEmployeeRequest);
+            return employee;
+        }
     }
 }

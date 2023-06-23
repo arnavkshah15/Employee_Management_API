@@ -20,16 +20,30 @@ namespace FulStack.API.Controllers
         [HttpGet]
         public ActionResult<List<Employee>> Get()
         {
-            var employeeFromService= _service.GetAllEmployees();
+            var employeeFromService = _service.GetAllEmployees();
             return Ok(employeeFromService);
         }
 
         [HttpPost]
-        public ActionResult<Employee> PostEmployee(Employee employee) { 
-        var Employee=_service.CreateEmployee(employee);
+        public ActionResult<Employee> PostEmployee(Employee employee) {
+            var Employee = _service.CreateEmployee(employee);
             return Ok(employee);
         }
 
-        
+        [HttpGet]
+        [Route("{id:Guid}")]
+        public ActionResult<Employee> GetEmployee([FromRoute]Guid id)
+        {
+            var employeeFromService=_service.GetEmployee(id);
+            return Ok(employeeFromService);
+        }
+        [HttpPut]
+        [Route("{id:Guid}")]
+        public ActionResult<Employee> UpdateEmployee([FromRoute] Guid id,Employee updateEmployeeRequest )
+        {
+            var employeeFromService = _service.UpdateEmployee(id,updateEmployeeRequest);
+            return Ok(employeeFromService);
+        }
+
     }
 }
