@@ -38,5 +38,11 @@ namespace FullStack.Application
             var employee= _fStackRepository.UpdateEmployee(id, updateEmployeeRequest);
             return employee;
         }
+
+        public Employee DeleteEmployee(Guid id)
+        {
+            var employee= (_fStackRepository.DeleteEmployee(id));
+            return employee;
+        }
     }
 }

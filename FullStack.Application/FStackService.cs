@@ -14,5 +14,7 @@ namespace FullStack.Application
 
         Employee GetEmployee(Guid id);
         Employee UpdateEmployee(Guid id, Employee updateEmployeeRequest);
+
+        Employee DeleteEmployee(Guid id);
     }
 }

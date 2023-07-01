@@ -60,5 +60,18 @@ namespace Fullstack.Infrastructure
 
             return employee;
         }
+
+        public Employee DeleteEmployee(Guid id)
+        {
+            var employee = _fullStackDbContext.Employees.Find(id);
+            if (employee == null)
+            {
+                return null;
+            }
+            _fullStackDbContext.Employees.Remove(employee);
+            _fullStackDbContext.SaveChanges();
+            return employee;
+        }
+
     }
 }

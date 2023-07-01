@@ -45,5 +45,12 @@ namespace FulStack.API.Controllers
             return Ok(employeeFromService);
         }
 
+        [HttpDelete]
+        [Route("{id:Guid}")]
+        public ActionResult DeleteEmployee([FromRoute] Guid id) {
+        var employeeFromService=_service.DeleteEmployee(id);
+            return Ok(employeeFromService);
+        }
+
     }
 }
